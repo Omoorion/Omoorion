@@ -1,6 +1,7 @@
 [![a portrait of yours truly](https://omoorion.github.io/omoor.github.io/Images/omerot.png)](https://omoorion.github.io/threejseffects/)
 
 Why hello there, Omoor here. I specialize in front-end web development, but I can also develop complex algorithms for various tasks.
+
 I like reading, learning and playing games in my free time.
 
 <!--https://steamuserimages-a.akamaihd.net/ugc/1816650191704726668/A0DFFF8022DE9D8F74630F8323A7D9C66A1AC762/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false-->
