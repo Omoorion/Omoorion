@@ -6,6 +6,8 @@ Why hello there 👋, Omoor here.
 I specialize in front-end web development.
 </h3>
 
+<p align="center"> </p>
+
 <img align="right" 
 src = "https://omoorion.github.io/omoor.github.io/Images/omerot.png"
 width=400/>
@@ -15,13 +17,10 @@ width=400/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views" /> </p>
 
 - I likeeee Fornite!
+- I like Trolls!
+- No More Ballllllz!
 
-<a href="https://skyline.github.com/Omoorion/2021?annotation0=2021-06-26,2021-06-26,26%2F6%2F21%20Damn%20I%20had%20the%20SHEEEEEE&annotation1=2021-12-30,2021-12-30,30%2F12%2F2021%20Okay%20so%20maybe%20I%20had%20a%20bit%20too%20much%20of%20that%20AY%20AY&annotation2=2021-10-15,2021-10-15,15%2F10%2F21%20nah%20nah%20who%20did%20that%20SHEEEEE">
-<img align="right" 
-src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
-width=400/>
-</a>
-
+<p align="center"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
