@@ -34,6 +34,8 @@ width=600 height=200/>
 - ⚡ Fun Fact I 100% did not copy from **[Mr.Ido Barnea](https://github.com/Ido-Barnea/)**
 
 
+<p align="center"> <br/><br/><br/> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
