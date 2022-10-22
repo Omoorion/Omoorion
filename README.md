@@ -7,7 +7,7 @@ I specialize in front-end Web development and Unity game engine. <br/>
 I also love doing fun projects in python.
 </h3>
 
-<p align="center"> </p>
+<br/>
 
 <a href="https://omoorion.github.io/threejseffects/">
 <img align="right" 
