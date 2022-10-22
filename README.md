@@ -21,7 +21,7 @@ width=400 height=200/>
 - 🎮 I am currently working on a game in **Unity**
 - ⚡ Fun Fact I 100% did not copy from **[Mr.Ido Barnea](https://github.com/Ido-Barnea/)**
 
-<p align="center"> </p>
+<p align="center"> <br/><br/><br/> </p>
 
 <a href="https://skyline.github.com/Omoorion/2021/">
 <img align="right"
