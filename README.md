@@ -23,9 +23,9 @@ width=200 height=200/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views" /> </p>
 
-- You can ask me anything about **Web**
-- I am currently working on a game in **Unity**
-- Fun Fact I 100% did not copy from Mr.[Ido Barnea](https://github.com/Ido-Barnea/)
+- 💬 You can ask me anything about **Web**
+- 🎮 I am currently working on a game in **Unity**
+- ⚡Fun Fact I 100% did not copy from Mr.[Ido Barnea](https://github.com/Ido-Barnea/)
 
 <p align="center"> </p>
 
