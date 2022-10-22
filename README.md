@@ -23,9 +23,9 @@ width=300 height=200/>
 
 <p align="center"> <br/><br/><br/> </p>
 
-<h2 align="center"> 
+<h3 align="left"> 
 🏆 My top Contributions: 
-</h2>
+</h3>
 
 
 <a href="https://skyline.github.com/Omoorion/2021/">
