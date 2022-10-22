@@ -15,7 +15,9 @@ src = "https://omoorion.github.io/omoor.github.io/Images/omerot.png"
 width=300 height=200/>
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views" /> </p>
+<p align="left">
+&nbsp;<img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views"/>
+</p>
 
 - 💬 You can ask me anything about **Web**
 - 🎮 I am currently working on a game in **Unity**
