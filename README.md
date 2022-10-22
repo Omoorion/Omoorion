@@ -29,9 +29,7 @@ src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
 width=600 height=200/>
 </a>
 
-- 💬 You can ask me anything about **Web**
-- 🎮 I am currently working on a game in **Unity**
-- ⚡ Fun Fact I 100% did not copy from **[Mr.Ido Barnea](https://github.com/Ido-Barnea/)**
+- 🏆 My top Contributions:
 
 
 <p align="center"> <br/><br/><br/> </p>
