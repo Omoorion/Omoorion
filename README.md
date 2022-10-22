@@ -23,7 +23,7 @@ width=300 height=200/>
 - 🎮 I am currently working on a game in **Unity**
 - ⚡ Fun Fact I 100% did not copy from **[Mr. Ido Barnea](https://github.com/Ido-Barnea/)**
 
-<p align="center"> <br/><br/> </p>
+<br/>
 
 <h3 align="left"> 
 🏆 My top Contributions: 
