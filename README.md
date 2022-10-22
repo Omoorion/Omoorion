@@ -25,7 +25,7 @@ width=200 height=200/>
 
 - 💬 You can ask me anything about **Web**
 - 🎮 I am currently working on a game in **Unity**
-- ⚡Fun Fact I 100% did not copy from Mr.[Ido Barnea](https://github.com/Ido-Barnea/)
+- ⚡ Fun Fact I 100% did not copy from Mr.[Ido Barnea](https://github.com/Ido-Barnea/)
 
 <p align="center"> </p>
 
