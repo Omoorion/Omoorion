@@ -3,8 +3,8 @@ Why hello there 👋, Omoor here.
 </h1>
 
 <h3 align="center">
--I specialize in front-end Web development and Unity game engine.
--I also love doing fun projects in python.
+- I specialize in front-end Web development and Unity game engine.
+- I also love doing fun projects in python.
 </h3>
 
 <p align="center"> </p>
