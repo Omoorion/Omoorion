@@ -4,8 +4,6 @@ Why hello there 👋, Omoor here.
 
 <h3 align="center">
 I specialize in front-end web development.
-In addition, I can also develop complex algorithms for various tasks.
-I like reading, learning, playing and programming games in my free time.
 </h3>
 
 <img align="right" 
