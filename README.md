@@ -59,6 +59,6 @@ width=600 height=200/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omoorion&show_icons=true&theme=dark&locale=en&layout=compact" alt="mmmm... yalla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omoorion&show_icons=true&theme=dark&locale=en" alt="mmm... bai" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omoorion&show_icons=true&theme=dark&locale=en" alt="mmm... bai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omoorion&theme=dark" alt="mmmm... yalla yalla" /></p>
