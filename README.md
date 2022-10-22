@@ -23,15 +23,16 @@ width=300 height=200/>
 
 <p align="center"> <br/><br/><br/> </p>
 
+<h2 align="center"> 
+🏆 My top Contributions: 
+</h2>
+
+
 <a href="https://skyline.github.com/Omoorion/2021/">
-<img align="right"
+<img align="center"
 src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
 width=600 height=200/>
 </a>
-
-<h2> 
-🏆 My top Contributions: 
-</h2>
 
 
 <p align="center"> <br/><br/><br/> </p>
