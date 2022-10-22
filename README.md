@@ -29,7 +29,7 @@ width=300 height=200/>
 
 
 <a href="https://skyline.github.com/Omoorion/2021/">
-<img
+<img align="right"
 src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
 width=600 height=200/>
 </a>
