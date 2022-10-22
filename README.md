@@ -17,7 +17,7 @@ width=200 height=200/>
 <a href="https://skyline.github.com/Omoorion/2021/">
 <img align="right" 
 src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
-width=400 height=200/>
+width=600 height=200/>
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views" /> </p>
