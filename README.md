@@ -14,11 +14,6 @@ I also love doing fun projects in python.
 src = "https://omoorion.github.io/omoor.github.io/Images/omerot.png"
 width=400 height=200/>
 </a>
-<a href="https://skyline.github.com/Omoorion/2021/">
-<img
-src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
-width=600 height=200/>
-</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views" /> </p>
 
@@ -27,6 +22,17 @@ width=600 height=200/>
 - ⚡ Fun Fact I 100% did not copy from **[Mr.Ido Barnea](https://github.com/Ido-Barnea/)**
 
 <p align="center"> </p>
+
+<a href="https://skyline.github.com/Omoorion/2021/">
+<img align="right"
+src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
+width=600 height=200/>
+</a>
+
+- 💬 You can ask me anything about **Web**
+- 🎮 I am currently working on a game in **Unity**
+- ⚡ Fun Fact I 100% did not copy from **[Mr.Ido Barnea](https://github.com/Ido-Barnea/)**
+
 
 <h3 align="left">Languages and Tools:</h3>
 
