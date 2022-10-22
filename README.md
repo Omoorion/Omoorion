@@ -16,7 +16,7 @@ width=300 height=200/>
 </a>
 
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views"/>
 </p>
 
 - 💬 You can ask me anything about **Web**
