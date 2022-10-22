@@ -3,7 +3,8 @@ Why hello there 👋, Omoor here.
 </h1>
 
 <h3 align="center">
-I specialize in front-end web development.
+-I specialize in front-end Web development and Unity game engine.
+-I also love doing fun projects in python.
 </h3>
 
 <p align="center"> </p>
@@ -22,9 +23,9 @@ width=200 height=200/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views" /> </p>
 
-- I likeeee Fornite!
-- I like Trolls!
-- No More Ballllllz!
+- You can ask me anything about **Web**
+- I am currently working on a game in **Unity**
+- Fun Fact I 100% did not copy MR. [!IDO BARNEA](https://github.com/Ido-Barnea/)
 
 <p align="center"> </p>
 
