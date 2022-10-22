@@ -29,7 +29,9 @@ src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
 width=600 height=200/>
 </a>
 
-- 🏆 My top Contributions:
+<h2> 
+🏆 My top Contributions: 
+</h2>
 
 
 <p align="center"> <br/><br/><br/> </p>
