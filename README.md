@@ -14,7 +14,6 @@ I also love doing fun projects in python.
 src = "https://omoorion.github.io/omoor.github.io/Images/omerot.png"
 width=200 height=200/>
 </a>
-<br/>
 <a href="https://skyline.github.com/Omoorion/2021/">
 <img align="right" 
 src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
