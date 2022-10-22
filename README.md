@@ -12,7 +12,7 @@ I also love doing fun projects in python.
 <a href="https://omoorion.github.io/threejseffects/">
 <img align="right" 
 src = "https://omoorion.github.io/omoor.github.io/Images/omerot.png"
-width=400 height=200/>
+width=300 height=200/>
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views" /> </p>
