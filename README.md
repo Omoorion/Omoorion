@@ -12,10 +12,10 @@ I also love doing fun projects in python.
 <a href="https://omoorion.github.io/threejseffects/">
 <img align="right" 
 src = "https://omoorion.github.io/omoor.github.io/Images/omerot.png"
-width=200 height=200/>
+width=400 height=200/>
 </a>
 <a href="https://skyline.github.com/Omoorion/2021/">
-<img align="right" 
+<img align="bottom" 
 src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
 width=600 height=200/>
 </a>
