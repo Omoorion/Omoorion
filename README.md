@@ -66,7 +66,7 @@ width=600 height=200/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omoorion&theme=algolia" alt="mmmm... yalla yalla" /></p>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=Omoorion&theme=juicyfresh&no-bg=true"/></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=Omoorion&theme=algolia&no-bg=true"/></p>
 
 <h3 align="left">🌐 You Can Also Find Me On:</h3>
 <a href="https://omoor.itch.io/" target="_blank" rel="noreferrer"> <img src="https://www.pinclipart.com/picdir/big/398-3984001_itch-io-logo-clipart.png" alt="itch.io" width="40" height="40"/> </a>
