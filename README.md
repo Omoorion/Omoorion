@@ -17,6 +17,9 @@ width=300 height=200/>
 <p align="left">
 &nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views"/>
 </p>
+<a href = "https://commits.top/israel.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Omoorion" target="_blank"/> 
+</a>
 
 - 💬 You can ask me anything about **Web**
 - 🎮 I am currently working on a game in **Unity**
@@ -59,7 +62,7 @@ width=600 height=200/>
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omoorion&show_icons=true&theme=dark&locale=en&layout=compact" alt="mmmm... yalla" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omoorion&show_icons=true&theme=dark&color=blue&locale=en&layout=compact" alt="mmmm... yalla" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omoorion&show_icons=true&theme=dark&locale=en" alt="mmm... bai" /></p>
 
