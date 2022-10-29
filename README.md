@@ -20,7 +20,8 @@ width=300 height=200/>
 
 - 💬 You can ask me anything about **Web**
 - 🎮 I am currently working on a game in **Unity**
-- ⚡ Fun Fact I 100% did not copy from **[Mr. Ido Barnea](https://github.com/Ido-Barnea/)**
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- ✍️ In my free time, I like creating art with **Blender/Krita/PaintToolSAI/Piskel/Aseprite** and crafting music using **FLSTUDIO**.
 
 <br/>
 <br/>
