@@ -18,9 +18,9 @@ src = "https://github.com/Omoorion/Omoorion/blob/main/Omerot%20Ascii%20Bright.pn
 width=300 height=200/>
 </a>
 
-<h3 align="left" style="color:blue">👨🏻‍💻 About Me</h3>
+👨🏻‍💻 [About Me](#)
 
-- 💬 You can ask me anything about **Web** [Blue](#)
+- 💬 You can ask me anything about **Web**
 - 🎮 I am currently working on a game in **Unity**
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - ✍️ In my free time, I like creating art with **Blender/Krita/PaintToolSAI/Piskel/Aseprite** and crafting music using **FL Studio**.
