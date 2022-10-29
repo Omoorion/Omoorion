@@ -14,7 +14,7 @@ Omoor here.
 
 <a href="https://omoorion.github.io/threejseffects/">
 <img align="right" 
-src = "https://raw.githubusercontent.com/Omoorion/Omoorion/main/Omerot%20Ascii.png"
+src = "https://github.com/Omoorion/Omoorion/blob/main/Omerot%20Ascii%20Bright.png"
 width=300 height=200/>
 </a>
 
