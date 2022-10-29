@@ -25,9 +25,6 @@ width=300 height=200/>
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - ✍️ In my free time, I like creating art with **Blender/Krita/PaintToolSAI/Piskel/Aseprite** and crafting music using **FL Studio**.
 
-<br/>
-<br/>
-
 <!-- <h3 align="left"> 
 🏆 My top Contributions: 
 </h3>
