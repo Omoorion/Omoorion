@@ -3,9 +3,7 @@ Why hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob
 Omoor here.
 </h1>
 
-<h3 align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Program+Engineering+Student;8th+Place+in+CodeGuru+2021;Web+%26+Game+Developer)](https://git.io/typing-svg)
-</h3>
 
 <br/>
 
