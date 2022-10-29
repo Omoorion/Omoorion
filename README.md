@@ -1,3 +1,4 @@
+<img src="https://media1.giphy.com/media/1sv8rJuRVyax5a31L3/giphy.gif?cid=790b7611c6306e0ae4d8913f76eea5cfd552dbb28331ce67&rid=giphy.gif&ct=g"/>
 <h1 align="center">
 Why hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,
 Omoor here.</h1>
