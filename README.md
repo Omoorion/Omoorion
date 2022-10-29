@@ -4,8 +4,7 @@ Omoor here.
 </h1>
 
 <h3 align="center">
-I specialize in front-end Web development and Unity game engine. <br/>
-I also love doing fun advanced projects in python.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Program+Engineering+Student;8th+Place+in+CodeGuru+2021;Web+%26+Game+Developer)](https://git.io/typing-svg)
 </h3>
 
 <br/>
