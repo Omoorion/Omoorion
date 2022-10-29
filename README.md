@@ -17,9 +17,6 @@ width=300 height=200/>
 <p align="left">
 &nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=0e75b6&style=flat" alt="Omoor's Profile Views"/>
 </p>
-<a href = "https://commits.top/israel.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Omoorion" target="_blank"/> 
-</a>
 
 - 💬 You can ask me anything about **Web**
 - 🎮 I am currently working on a game in **Unity**
