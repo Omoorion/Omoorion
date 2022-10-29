@@ -61,7 +61,7 @@ width=600 height=200/>
 </p>
 
 <br/>
-### ⚙️ [GitHub Analytics](#)</h3>
+### ⚙️ [GitHub Analytics](#)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omoorion&show_icons=true&theme=algolia&color='blue'&locale=en&layout=compact" alt="mmmm... yalla" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omoorion&show_icons=true&theme=algolia&locale=en" alt="mmm... bai" /></p>
@@ -70,5 +70,5 @@ width=600 height=200/>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=Omoorion&theme=algolia&no-bg=true"/></p>
 
-<h3 align="left" style="color:blue">🌐 Accounts</h3>
+### 🌐 [Accounts](#)
 <a href="https://omoor.itch.io/" target="_blank" rel="noreferrer"> <img src="https://www.pinclipart.com/picdir/big/398-3984001_itch-io-logo-clipart.png" alt="itch.io" width="40" height="40"/> </a>
