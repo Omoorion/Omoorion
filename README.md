@@ -8,7 +8,7 @@ Omoor here.</h1>
 <br/>
 
 <p align="left">
-&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=2CF7AAFF&style=flat" alt="Omoor's Profile Views"/>
+&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=omoorion&label=Profile%20views&color=2CF7AA&style=flat" alt="Omoor's Profile Views"/>
 </p>
 
 <a href="https://omoorion.github.io/threejseffects/">
