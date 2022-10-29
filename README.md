@@ -18,7 +18,7 @@ src = "https://github.com/Omoorion/Omoorion/blob/main/Omerot%20Ascii%20Bright.pn
 width=300 height=200/>
 </a>
 
-👨🏻‍💻 [About Me](#)
+### 👨🏻‍💻 [About Me](#)
 
 - 💬 You can ask me anything about **Web**
 - 🎮 I am currently working on a game in **Unity**
