@@ -1,10 +1,11 @@
 <h1 align="center">
-Why hello there 👋, Omoor here.
+Why hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,
+Omoor here.
 </h1>
 
 <h3 align="center">
 I specialize in front-end Web development and Unity game engine. <br/>
-I also love doing fun projects in python.
+I also love doing fun advanced projects in python.
 </h3>
 
 <br/>
@@ -31,7 +32,7 @@ width=300 height=200/>
 </h3>
 
 
-<a href="https://skyline.github.com/Omoorion/2021/">
+<a href="https://skyline.github.com/Omoorion/2022/">
 <img
 src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
 width=600 height=200/>
