@@ -62,7 +62,7 @@ width=600 height=200/>
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omoorion&show_icons=true&theme=dark&color=blue&locale=en&layout=compact" alt="mmmm... yalla" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omoorion&show_icons=true&theme=dark&color='blue'&locale=en&layout=compact" alt="mmmm... yalla" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omoorion&show_icons=true&theme=dark&locale=en" alt="mmm... bai" /></p>
 
