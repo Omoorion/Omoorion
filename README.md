@@ -20,7 +20,7 @@ width=300 height=200/>
 
 <h3 align="left" style="color:blue">👨🏻‍💻 About Me</h3>
 
-- 💬 You can ask me anything about **Web**
+- 💬 You can ask me anything about **Web** [Blue](#)
 - 🎮 I am currently working on a game in **Unity**
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - ✍️ In my free time, I like creating art with **Blender/Krita/PaintToolSAI/Piskel/Aseprite** and crafting music using **FL Studio**.
