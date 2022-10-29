@@ -1,4 +1,4 @@
-<img src="https://cdn.kapwing.com/final_635d7ad647f3720011649f17_977255.gif"/>
+<img src="https://media1.giphy.com/media/1sv8rJuRVyax5a31L3/giphy.gif?cid=790b7611c6306e0ae4d8913f76eea5cfd552dbb28331ce67&rid=giphy.gif&ct=g"/>
 
 <h1 align="center" style="position:absolute">
 Why hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,
