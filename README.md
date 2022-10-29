@@ -67,3 +67,5 @@ width=600 height=200/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omoorion&show_icons=true&theme=dark&locale=en" alt="mmm... bai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omoorion&theme=dark" alt="mmmm... yalla yalla" /></p>
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=Omoorion&theme=juicyfresh&no-bg=true" /></
