@@ -1,4 +1,5 @@
-<img src="https://media1.giphy.com/media/1sv8rJuRVyax5a31L3/giphy.gif?cid=790b7611c6306e0ae4d8913f76eea5cfd552dbb28331ce67&rid=giphy.gif&ct=g" width="1150px" height = "200px"/>
+<div style="height: 0; padding-bottom: calc(100.00%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/635d7ad647f3720011649f17" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
+
 <h1 align="center" style="position:absolute">
 Why hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,
 Omoor here.</h1>
