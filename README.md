@@ -1,5 +1,3 @@
-<img src="https://media1.giphy.com/media/1sv8rJuRVyax5a31L3/giphy.gif?cid=790b7611c6306e0ae4d8913f76eea5cfd552dbb28331ce67&rid=giphy.gif&ct=g"/>
-
 <h1 align="center" style="position:absolute">
 Why hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,
 Omoor here.</h1>
@@ -15,7 +13,7 @@ Omoor here.</h1>
 
 <a href="https://omoorion.github.io/threejseffects/">
 <img align="right" 
-src = "https://github.com/Omoorion/Omoorion/blob/main/Omerot%20Ascii%20Bright.png"
+src = "https://miro.medium.com/max/1600/0*ZFVRrCKEokQ7_81X.gif"
 width=300 height=200/>
 </a>
 
