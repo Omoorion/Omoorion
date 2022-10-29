@@ -13,6 +13,7 @@ Omoor here.
 </p>
 
 <h3 align="left">👨🏻‍💻 About Me</h3>
+
 - 💬 You can ask me anything about **Web**
 - 🎮 I am currently working on a game in **Unity**
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
