@@ -2,7 +2,7 @@
 Why hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,
 Omoor here.</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Program+Engineering+Student;8th+Place+in+CodeGuru+2021;Web+%26+Game+Developer" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF7AA&center=true&vCenter=true&width=435&lines=Program+Engineering+Student;8th+Place+in+CodeGuru+2021;Web+%26+Game+Developer" alt="Typing SVG" /></a>
 </p>
 
 <br/>
