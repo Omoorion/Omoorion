@@ -1,3 +1,8 @@
+<style>
+H1{color:Blue !important;}
+</style>
+
+
 <h1 align="center">
 Why hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,</h1>
 
