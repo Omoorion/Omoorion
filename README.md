@@ -26,7 +26,7 @@ width=300 height=200/>
 <br/>
 <br/>
 
-<h3 align="left"> 
+<!-- <h3 align="left"> 
 🏆 My top Contributions: 
 </h3>
 
@@ -35,7 +35,7 @@ width=300 height=200/>
 <img
 src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
 width=600 height=200/>
-</a>
+</a> -->
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
@@ -60,11 +60,11 @@ width=600 height=200/>
 
 <br/>
 <h3 align="left">⚙️ GitHub Analytics:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omoorion&show_icons=true&theme=dark&color='blue'&locale=en&layout=compact" alt="mmmm... yalla" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omoorion&show_icons=true&theme=algolia&color='blue'&locale=en&layout=compact" alt="mmmm... yalla" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omoorion&show_icons=true&theme=dark&locale=en" alt="mmm... bai" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omoorion&show_icons=true&theme=algolia&locale=en" alt="mmm... bai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omoorion&theme=dark" alt="mmmm... yalla yalla" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omoorion&theme=algolia" alt="mmmm... yalla yalla" /></p>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=Omoorion&theme=juicyfresh&no-bg=true"/></p>
 
