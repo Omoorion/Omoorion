@@ -39,7 +39,7 @@ src = "https://i.ibb.co/dJZBWZ1/My-Contributions-Github2021-Omoor.png"
 width=600 height=200/>
 </a> -->
 
-<h3 align="left" style="color:blue">🛠️ Languages and Tools</h3>
+### 🛠️ [Languages and Tools](#)
 
 <p align="left">
   
@@ -61,7 +61,7 @@ width=600 height=200/>
 </p>
 
 <br/>
-<h3 align="left" style="color:blue">⚙️ GitHub Analytics</h3>
+### ⚙️ [GitHub Analytics](#)</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omoorion&show_icons=true&theme=algolia&color='blue'&locale=en&layout=compact" alt="mmmm... yalla" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omoorion&show_icons=true&theme=algolia&locale=en" alt="mmm... bai" /></p>
